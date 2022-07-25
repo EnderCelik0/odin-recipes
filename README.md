@@ -1,0 +1,1 @@
+Odin Project icerisinde Foundations kismindaki HTML kisminda ogrendigimiz seyleri pratik yapmak amaciyla "recipes" adli bir web application yapmam gerekiyor. Cok zor gorunmuyor maksimum 1.5  - 2 saatimi alabilir.
